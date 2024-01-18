@@ -7,6 +7,8 @@ date: 2024-01-17
 published: true
 labels:
   - Engineering
+  - Javascript
+  - Programming
 ---
 
 ## Javascript at a glance
@@ -21,3 +23,5 @@ With the introduction of athletic software engineering, the workload of this cla
 ## Moving forward
 
 With the strong class structure of ICS314, I think moving forward with Javascript and other programming languages will be something to get used to as more assignments are being sent out. I appreciate the approach that this class takes with programming being treated like a sport. The only way to get better at programming languages is practice and more exposure to it like with our WODs. Overall, I hope to be proficient in Javascript by the end of this semester.
+
+###### ChatGPT attributed in correcting grammar, vocabulary and punctuation.
