@@ -4,7 +4,7 @@ type: essay
 title: "A language from Inspection element"
 # All dates must be YYYY-MM-DD format!
 date: 2016-02-06
-published: true
+published: false
 labels:
   - Engineering
   - Javascript
