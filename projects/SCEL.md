@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: https://avatars.githubusercontent.com/u/7014873?s=200&v=4
+image: img/scel_logo.jpg
 title: "SCEL Weatherbox"
 date: 2023
 published: true
