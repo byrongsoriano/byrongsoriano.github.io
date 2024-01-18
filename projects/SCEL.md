@@ -2,15 +2,16 @@
 layout: project
 type: project
 image: https://avatars.githubusercontent.com/u/7014873?s=200&v=4
-title: "Scel Weatherbox"
+title: "SCEL Weatherbox"
 date: 2023
 published: true
 labels:
-  - Eagle
+  - Autodesk Eagle
   - Arduino
   - C++
+  - Python
   - PCB Design
-summary: "My team developed a robotic mouse that won first place in the 2015 UH Micromouse competition."
+summary: "Smart Campus Energy Lab or (SCEL) is an ongoing electrical engineering project with the objective to collect, analyze, and make decisions regarding energy and environmental data at UH Mānoa campus."
 ---
 
 <div class="text-center p-4">
