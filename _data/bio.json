@@ -1,18 +1,17 @@
 {
   "basics": {
-    "name": "Molly Maluhia",
+    "name": "Byron Soriano",
     "label": "Student",
-    "picture": "https://github.com/kambergjohnson.png",
-    "email": "molly@hawaii.edu",
-    "phone": "808-333-4444",
-    "website": "https://mmaluhia.github.io",
-    "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2024.",
-    "location": { "address": "", "postalCode": "96822", "city": "Honolulu", "countryCode": "USA", "region": "Hawaii" },
+    "picture": "https://github.com/byrongsoriano.png",
+    "email": "byrongs@hawaii.edu",
+    "phone": "808-673-6207",
+    "website": "https://byrongsoriano.github.io",
+    "summary": "I am studying for a B.S. in Computer Engineering in the College of Engineering at the University of Hawaii. I expect to graduate in Spring, 2025.",
+    "location": { "address": "", "postalCode": "96797", "city": "Waipahu", "countryCode": "USA", "region": "Hawaii" },
     "profiles": [
-      { "network": "github", "username": "mmaluhia", "url": "http://github.com/changeme" },
-      { "network": "linkedin", "username": "mollymaluhia", "url": "http://linkedin.com/in/changeme" },
-      { "network": "twitter", "username": "mollymal", "url": "http://twitter.com/changeme" },
-      { "network": "instagram", "username": "molly", "url": "http://instagram.com/changeme" }
+      { "network": "github", "username": "byrongsoriano", "url": "http://github.com/byrongsoriano" },
+      { "network": "linkedin", "username": "Byron Soriano", "url": "http://linkedin.com/in/byron-soriano-1b2013269" },
+      { "network": "instagram", "username": "vip_b_ron", "url": "http://instagram.com/vip_b_ron" }
     ]
   },
   "interests": [
@@ -25,7 +24,7 @@
   "skills": [
     {
       "name": "Languages and Frameworks",
-      "keywords": [ "C", "C++", "Java", "Javascript", "Assembly", "Common Lisp" ]
+      "keywords": [ "C", "C++", "Kotlin", "Javascript", "SystemVerilog", "MIPS" ]
     },
     {
       "name": "Toolsets/OS",
@@ -35,9 +34,9 @@
   "education": [
     {
       "institution": "University of Hawaii, Honolulu, HI",
-      "area": "Computer Science (expected Spring, 2018)",
+      "area": "Computer Engineering (expected Spring, 2024)",
       "studyType": "B.S.",
-      "startDate": "2013-09-01",
+      "startDate": "2020-09-01",
       "endDate": "Present",
       "courses": [
       ]
