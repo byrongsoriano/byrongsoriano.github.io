@@ -15,8 +15,8 @@ summary: "Smart Campus Energy Lab or (SCEL) is an ongoing electrical engineering
 ---
 
 <div class="text-center p-4">
-  <img width="200px" src="../img/micromouse/micromouse-robot.png" class="img-thumbnail" >
-  <img width="200px" src="../img/micromouse/micromouse-robot-2.jpg" class="img-thumbnail" >
+  <img width="200px" src="../img/scel_sensors.png" class="img-thumbnail" >
+  <img width="200px" src="../img/blockdiagram.png" class="img-thumbnail" >
   <img width="200px" src="../img/micromouse/micromouse-circuit.png" class="img-thumbnail" >
 </div>
 
