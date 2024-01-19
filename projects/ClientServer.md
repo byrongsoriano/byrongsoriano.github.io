@@ -11,7 +11,7 @@ labels:
   - Data structures and Algorithms
   - TCP/IP
     
-summary: "A semester long project that implements a TCP (Transport Control Protocol) developed in EE367L."
+summary: "A semester long project that implements a TCP (Transport Control Protocol) developed in Dr. Galen Sasaki's EE367L."
 ---
 ## An Intro to Processes
 
