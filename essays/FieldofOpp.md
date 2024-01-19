@@ -16,16 +16,28 @@ labels:
 ## The Age of Smart Devices
 During my freshman year in high school in 2016, I was one of those students who enrolled in various classes only to fulfill credit requirements. However, a shift occurred that year. I observed my friends and family using smartphones and other smart devices. In 2016, smartphones were deemed a luxury and a trend, with companies eagerly introducing new features. I consider it a golden age for smartphones. Students owned a variety of smartphones, including iPhones, Galaxies, LGs, and Xperias, to name a few. Their designs intruiged me as I observed these devices being used. This realization sparked my inspiration to be involved in shaping the future of smartphone designs. Since then, I have been collecting various smartphones and studying their internal specifications and software.
 
+<hr>
+
 <img width="400px" class="rounded float-start pe-4" src="../img/cpe.jpg">
 
 ## Best of Three Worlds
 
-In pursuit of these goals, gaining practical experience is as crucial as theoretical knowledge. I am eager to involve myself in internships, collaborative projects, and open-source contributions. These experiences are invaluable in providing real-world context to the concepts learned in the classroom, and in developing a pragmatic approach to problem-solving. Additionally, I am particularly interested in participating in coding hackathons and tech meetups, which I believe are excellent platforms for learning, networking, and staying updated with the latest industry trends.
+In my senior year of high school, I enrolled in a mix of computer science and engineering design classes to meet my elective requirements. However, I was uncertain about which field to pursue for my major. Fortunately, my computer science professor and engineering professor were close friends with classrooms located next to each other. Seeking guidance on potential career paths, I approached them. Both professors recognized my interest for both computer science and engineering and suggested that I consider majoring in computer engineering, which covers software and hardware. With their advice, I applied and was accepted into UH Manoa, where I pursued Computer Engineering as my chosen major.
 
-## Conclusion: The Road Ahead
+After completing two years of college, I had exposure to both electrical engineering and computer science classes. However, I faced difficulty in distinguishing between the two subjects. While my interest leaned more towards hardware than software, I observed that some of my electrical engineering classmates lacked programming knowledge.
+I realized that having a proficiency in programming could open up more career opportunities. A similar realization occurred when I noticed that some of my computer science classmates were unfamiliar with circuit analysis. 
 
-In summary, my journey in software engineering is guided by a deep-seated passion for technology and an earnest desire to contribute meaningfully to this ever-evolving field. By honing my technical and soft skills, and immersing myself in practical experiences, I aim to not only achieve personal growth but also make a positive impact in the realm of software development. The road ahead is challenging, yet exciting, and I look forward to every step of this continuing journey.
+Seeking answers, I approached one of my favorite computer engineering professors to discuss my confusion.
+His response gave me a clear understanding of computer engineering. He explained that while both software and hardware are crucial, the emphasis in computer engineering lies in how software affects the hardware vice versa, such as CPU speeds and performance. I concluded that computer engineering can intersect with both computer science and electrical engineering, especially in our technologically advanced world.
 
 <hr>
 
-###### PS: ChatGPT helped in creating chatchy titles and with grammar, vocabulary and punctuation.
+<img width="250px" class="rounded float-start pe-4" src="../img/box.jpg">
+
+## The Complete Package
+
+While software engineering may not be my expertise, I know that it is just as important to learn as hardware. I hope to be profecient enough in software engineering to program any smart devices if needed in the future. As I was doing the professional portfolio for ICS314, my appreciation for software grew. Indeed the professional portfolio is one of the most powerful aspects of this class and not alot of other engineering majors can say they have a portfolio like this one. I look forward to improving my coding experience in Javascript and any upcoming programming languages. 
+
+<hr>
+
+###### ChatGPT attributed in fixing grammar, vocabulary and punctuation.
