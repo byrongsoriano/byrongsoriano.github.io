@@ -7,22 +7,17 @@ date: 2023
 published: true
 labels:
   - C
-  - Programming
+  - Socket Programming
   - Data structures and Algorithms
+  - TCP/IP
     
 summary: "A semester long project that implements a TCP (Transport Control Protocol) developed in EE367L."
 ---
 
-<img class="img-fluid" src="../img/vacay/vacay-home-page.png">
+In this project, I had the opportunity to create both a client and a server which required me to learn socket programming. The server, acting as a responsive entity, patiently awaits requests or commands. Upon receiving a request, it processes the request and promptly returns a thoughtful reply. The client is the counterpart in this dynamic interaction, responsible for initiating requests. As their names suggest, their functionality is much like a client and server at a restaurant where the client requests an item and the server sends the requested item back to the client. Below is a visual example of this dynamic.
 
-Vacay is a web application that I helped create as a team project in ICS 415, Spring 2015. The project helped me learn how to design and implement a responsive web site.
+<img class="img-fluid" src="../img/client_server.png">
 
-Vacay is implemented using [Meteor](http://meteor.com), a JavaScript application platform. Within two weeks, we created a website that implements several types of reservations including flights, hotels, and car rentals.
 
-In this project I gained experience with full-stack web application design and associated technologies, including [MongoDB](http://mongodb.com) for database storage, the [Twitter Bootstrap](http://getbootstrap.com/) CSS Framework for the user interface, and Javascript for both client and server-side programming. 
-
-Here is some example code to illustrate Simple Schema use:
-
-{% gist 9defa1fb3f4eb593ba5fa9eacedca960 %}
  
 Source: <a href="https://github.com/theVacay/vacay">theVacay/vacay</a>
