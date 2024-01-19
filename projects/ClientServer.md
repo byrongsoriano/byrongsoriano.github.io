@@ -21,7 +21,7 @@ In this project, I had the opportunity to create both a client and a server whic
 ## A New Kind of Programming
 The most crucial part to making this project work was implementing processes correctly. A process is a running program, which includes
 the executable program (or machine program), the CPU and the memory to store data. The “state” of the computer are the values stored in the variables in memory (static global variables, and variables in the heap and stack), and registers in the CPU. Processes also create processes which require system calls to manage these. Some system calls that I used were fork(), exit(), and wait() to name a few. We also implemented pipes which allows for multiple processes to work together. It serves as a memory buffer in the computer that multiple processes can
-access. Data is entered and retrieved from the pipe with systemcalls such as read() and write(). Once this was done, we also had to create sockets which are used for communicating between processes on a network. This would establish a connection between machines. Below is a diagram of ClientServer.
+access. Data is entered and retrieved from the pipe with systemcalls such as read() and write(). Once this was done, we also had to create sockets for communicating between processes on a network. This would establish a connection between machines. Below is a diagram of ClientServer.
 
 <img class="img-fluid" src="../img/client_server_diagram.png">
 
