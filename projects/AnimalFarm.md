@@ -12,7 +12,7 @@ labels:
 summary: "Animal Farm is a series of labs designed to facilitate the learning of Object-Oriented Programming. Animals are used as objects to teach the basics of C and C++, while also emphasizing the development of good software engineering practices."
 ---
 <p align="center">
-<img class="img-fluid" src="../img/animalfarm/animalfarm.jpg">
+<img class="img-fluid" src="../img/animalfarm/animalobject.png">
 </p>
 
 Animal Farm is a semester-long project from EE 205. It consists of smaller projects that build upon each other and teach the basics of C and C++. We learned to use tools like Git/GitHub, CLion IDE, and the command line to practice good software engineering habits. Upon the completion of each lab, it would then be pushed onto GitHub for documentation.
