@@ -36,7 +36,7 @@ His response gave me a clear understanding of computer engineering. He explained
 
 ## The Complete Package
 
-While software engineering may not be my expertise, I know that it is just as important to learn as hardware. I hope to be profecient enough in software engineering to program any smart devices if needed in the future. As I was doing the professional portfolio for ICS314, my appreciation for software grew. Indeed the professional portfolio is one of the most powerful aspects of this class and not alot of other engineering majors can say they have a portfolio like this one. I look forward to improving my coding experience in Javascript and any upcoming programming languages. 
+While software engineering may not be my expertise, I believe that it is just as significant as hardware. I hope to become proficienct in software engineering so that I will be able to program any smart devices in the future. While working on the professional portfolio for ICS314, my appreciation for software grew. Undoubtedly, the professional portfolio stands out as one of the most powerful aspects of this class, setting it apart from other engineering majors that lack a similar portfolio requirement. I look forward to enhancing my coding skills in JavaScript and staying updated with emerging programming languages.
 
 <hr>
 
