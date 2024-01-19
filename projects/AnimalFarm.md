@@ -23,4 +23,4 @@ The labs start off quite simple, introducing the very basics of C and C++. As we
 - Animal Farm 2 - Implement a procedural singly linked-list database of cats, where each cat is an object
 - Animal Farm 3 - Implement a collection class that implements a singly linked database of Animal objects using: An abstract list, a concrete singly linked list, and a generic Node. Additionally, add an abstract Animal (which also inherits from Node) & Mammal to the Cat object model.
 
-The Animal Farm project can be found [here](https://github.com/byrongs/ee205-animal-farm)
+The Animal Farm project can be found [here](https://github.com/byrongs/ee205_lab_08d_animal_farm_1_to_clion.git)
