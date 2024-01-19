@@ -25,4 +25,12 @@ access. Data is entered and retrieved from the pipe with systemcalls such as rea
 
 <img class="img-fluid" src="../img/client_server_diagram.png">
 
-Source: <a href="https://github.com/theVacay/vacay">theVacay/vacay</a>
+Below shows a brief demonstration of how the ClientServer works.
+First, two terminals must be opened either on the same or different machine. If it is a connection between two machines, they must both be connected to the wiliki network. the connection is established by typing "./client wiliki" on one machine and "./server wiliki" on the other one in which "wiliki" is the hostname.
+<img class="img-fluid" src="../img/step1.png">
+
+The client side is on the left and has a display of commands that it will accept from the server until it quits. The connection was also tested by having text files sent from the server to the client with the download command. Once the download has been completed, the client can use the display command to check if the text file was downloaded or not.
+<img class="img-fluid" src="../img/step2.png">
+
+
+Source: <a href="https://drive.google.com/file/d/1G7A8eHl_FFA-4rRvzPcY3w34Gc5OuZGp/view?usp=drive_linka>
