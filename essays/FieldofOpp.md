@@ -14,11 +14,11 @@ labels:
 <img width="300px" class="rounded float-start pe-4" src="../img/smartphones.jpg">
 
 ## The Age of Smart Devices
-During my freshman year in high school in 2016, I was one of those students who enrolled in various classes only to fulfill credit requirements. However, a shift occurred that year. I observed my friends and family acquiring smartphones and other smart devices. In 2016, smartphones were deemed a luxury and a trend, with companies eagerly introducing new features. I consider it a golden age for smartphones. Students owned a variety of smartphones, including iPhones, Galaxies, LGs, and Xperias, to name a few. Their designs intruiged me as I observed these devices being used. This realization sparked my inspiration to be involved in shaping the future of smartphone designs. Since then, I have been collecting various smartphones and studying their internal specifications and software.
+During my freshman year in high school in 2016, I was one of those students who enrolled in various classes only to fulfill credit requirements. However, a shift occurred that year. I observed my friends and family using smartphones and other smart devices. In 2016, smartphones were deemed a luxury and a trend, with companies eagerly introducing new features. I consider it a golden age for smartphones. Students owned a variety of smartphones, including iPhones, Galaxies, LGs, and Xperias, to name a few. Their designs intruiged me as I observed these devices being used. This realization sparked my inspiration to be involved in shaping the future of smartphone designs. Since then, I have been collecting various smartphones and studying their internal specifications and software.
 
-## Aspiring for Mastery: Skills to Hone
+<img width="200px" class="rounded float-start pe-4" src="../img/cpe.jpg">
+## Best of Three Worlds
 
-Looking ahead, my primary focus is to deepen my technical proficiency while embracing the soft skills crucial for a successful career in software engineering. On the technical front, I am particularly keen on mastering full-stack development. Understanding both the front-end and back-end aspects of building applications is vital for creating seamless, user-friendly experiences. Furthermore, I aim to strengthen my grasp on emerging technologies such as artificial intelligence and blockchain, which are set to redefine the future of software development. Beyond technical skills, I recognize the importance of effective communication, teamwork, and problem-solving abilities – skills that are often the backbone of successful software projects.
 
 ## Bridging Theory and Practice: Gaining Real-World Experience
 
