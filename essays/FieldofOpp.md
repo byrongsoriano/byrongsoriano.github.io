@@ -11,7 +11,7 @@ labels:
   - Computer Engineering
 ---
 
-<img width="200px" class="rounded float-start pe-4" src="../img/ExploringWeb.png">
+<img width="300px" class="rounded float-start pe-4" src="../img/smartphones.jpg">
 
 ## The Age of Smart Devices
 During my freshman year in high school in 2016, I was one of those students who enrolled in various classes only to fulfill credit requirements. However, a shift occurred that year. I observed my friends and family acquiring smartphones and other smart devices. In 2016, smartphones were deemed a luxury and a trend, with companies eagerly introducing new features. I consider it a golden age for smartphones. Students owned a variety of smartphones, including iPhones, Galaxies, LGs, and Xperias, to name a few. Their designs intruiged me as I observed these devices being used. This realization sparked my inspiration to be involved in shaping the future of smartphone designs. Since then, I have been collecting various smartphones and studying their internal specifications and software.
