@@ -33,4 +33,4 @@ The client side is on the left and has a display of commands that it will accept
 <img class="img-fluid" src="../img/step2.png">
 
 
-Source: <a href="https://drive.google.com/file/d/1G7A8eHl_FFA-4rRvzPcY3w34Gc5OuZGp/view?usp=drive_link>
+Source: https://drive.google.com/file/d/1G7A8eHl_FFA-4rRvzPcY3w34Gc5OuZGp/view?usp=drive_link
