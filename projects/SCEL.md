@@ -18,6 +18,7 @@ summary: "Smart Campus Energy Lab or (SCEL) is an ongoing Vertically Integrated 
   <img width="200px" src="../img/scel_sensors.png" class="img-thumbnail" >
   <img width="200px" src="../img/blockdiagram.png" class="img-thumbnail" >
   <img width="200px" src="../img/test_weatherbox1.png" class="img-thumbnail" >
+  <img width="200px" src="../img/vipposter.png" class="img-thumbnail" >
 </div>
 
 
