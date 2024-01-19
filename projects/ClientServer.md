@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/client_server.png
+image: img/client_server2.png
 title: "Client Server"
 date: 2023
 published: true
@@ -16,7 +16,7 @@ summary: "A semester long project that implements a TCP (Transport Control Proto
 ## An Intro to Processes
 
 In this project, I had the opportunity to create both a client and a server which required me to learn socket programming. The server, acting as a responsive entity, patiently awaits requests or commands. Upon receiving a request, it processes the request and promptly returns a thoughtful reply. The client is the counterpart in this dynamic interaction, responsible for initiating requests. As their names imply, their functions closely resemble those of a client and server in a restaurant setting, where the client orders an item, and the server fulfills the request by delivering the chosen item back to the client. Below is a visual representation illustrating this dynamic process. 
-<img class="img-fluid" src="../img/client_server2.png">
+<img class="img-fluid" src="../img/client_server.png">
 
 ## A New Kind of Programming
 The most crucial part to making this project work was implementing processes correctly. A process is a running program, which includes
