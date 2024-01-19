@@ -11,7 +11,7 @@ labels:
   - C++
   - Python
   - PCB Design
-summary: "Smart Campus Energy Lab or (SCEL) is an ongoing electrical engineering project with the objective to collect, analyze, and make decisions regarding energy and environmental data at UH Mānoa campus."
+summary: "Smart Campus Energy Lab or (SCEL) is an ongoing Vertically Integrated Project with the objective to gather, analyze, and make decisions regarding energy and environmental data at UH Mānoa campus."
 ---
 
 <div class="text-center p-4">
