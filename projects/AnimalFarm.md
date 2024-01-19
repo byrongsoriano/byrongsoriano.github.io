@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/animalfarm/animalfarm.jpg
+image: img/animalfarm.jpg
 title: "Animal Farm"
 date: 2022
 published: true
@@ -15,7 +15,7 @@ summary: "Animal Farm is a series of labs designed to facilitate the learning of
 <img class="img-fluid" src="../img/animalfarm/animalfarm.jpg">
 </p>
 
-Animal Farm is a semester-long project from EE 205. It consists of smaller labs that build upon itself and are meant to teach the basics of C and C++. Other than programming languages, we learned to use tools like Git/GitHub, CLion IDE, and the command line to practice good software engineering habits. Upon the completion of each lab, it would then be pushed onto GitHub for documentation.
+Animal Farm is a semester-long project from EE 205. It consists of smaller projects that build upon each other and teach the basics of C and C++. We learned to use tools like Git/GitHub, CLion IDE, and the command line to practice good software engineering habits. Upon the completion of each lab, it would then be pushed onto GitHub for documentation.
 
 The labs start off quite simple, introducing the very basics of C and C++. As we moved on further into the semester, we learned about classes, data structures, and database functions which we implemented into Animal Farm. Here are the different versions of Animal Farm we worked on and the requirements of each:
 - Animal Farm 0 - Implement an array-based database of cats, where each attribute is an array
