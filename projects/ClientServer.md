@@ -30,5 +30,7 @@ First, two terminals must be opened either on the same or different machine. If 
 <img class="img-fluid" src="../img/Step1.png">
 
 The client side is on the left and has a display of commands that it will accept from the server until it quits. The connection was also tested by having text files sent from the server to the client with the download command. Once the download has been completed, the client can use the display command to check if the text file was downloaded or not.
+<img class="img-fluid" src="../img/step2.png">
 
+<hr>
 [You can read more here](https://drive.google.com/file/d/1G7A8eHl_FFA-4rRvzPcY3w34Gc5OuZGp/view)
