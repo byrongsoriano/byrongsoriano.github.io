@@ -19,94 +19,60 @@
     { "name": "Mobile engineering" },
     { "name": "Machine Learning" },
     { "name": "Web Development" },
-    { "name": "Circuit Design" }
+    { "name": "Circuit Design" },
+    { "name": "IoT" }
   ],
   "skills": [
     {
       "name": "Languages and Frameworks",
-      "keywords": [ "C", "C++", "Kotlin", "Javascript", "SystemVerilog", "MIPS" ]
+      "keywords": [ "C", "C++", "Kotlin", "Javascript", "SystemVerilog", "Verilog", "MIPS" ]
     },
     {
       "name": "Toolsets/OS",
-      "keywords": [ "MacOS", "Ubuntu", "Git/GitHub", "g++", "TI LaunchPad" ]
+      "keywords": [ "MacOS", "Ubuntu", "Git/GitHub", "Android", "Windows"]
     }
   ],
   "education": [
     {
       "institution": "University of Hawaii, Honolulu, HI",
-      "area": "Computer Engineering (expected Spring, 2024)",
+      "area": "Computer Engineering (expected Spring, 2025)",
       "studyType": "B.S.",
       "startDate": "2020-09-01",
       "endDate": "Present",
-      "courses": [
+      "courses": ["Calculus 1-4",
+        "Discrete Mathematics for Engineers",
+        "Introduction to Digital Design", 
+        "Circuit Analysis 1 and 2",
+        "Physics 1-3",
+        "Object-oriented programming",
+        "Data structures and Algorithms",
+        "Linear algebra and Machine learning",
+        "Digital systems and Computer design",
+        "Electromagnetics",
+        "Physical Electronics "
       ]
     }
   ],
   "work": [
     {
-      "company": "UH Manoa Board of Publications",
-      "position": "Web Developer",
+      "company": "UH Manoa College of Engineering",
+      "position": "EE Grader",
       "website": "",
-      "startDate": "2015-08-01",
-      "endDate": "Present",
-      "summary": "Head of online presence for Ka Leo",
+      "startDate": "9/23/2023",
+      "endDate": "12/18/2023",
+      "summary": "Electrical Engineering Grader for Discrete Math for Engineers",
       "highlights": [
-        "Maintain, update, and oversee official college newspaper website",
-        "Drive, design and build student-community projects for UH Manoa"
+        "Grades assignments for courses relating to computer engineering",
+        "Coordinates with instructor about grading procedures and practices",
+        "Works independently without close supervision"
       ]
     },
-    {
-      "company": "UH Information Technology Services",
-      "position": "Help Desk Consultant",
-      "website": "http://www.hawaii.edu/its/",
-      "startDate": "2015-01-01",
-      "endDate": "2016-03-15",
-      "summary": "",
-      "highlights": [
-        "Troubleshoot software, hardware and networking issues over the phone",
-        "Answer phone and email responses to the ITS Help Desk"
-      ]
-    }
-  ],
-  "volunteer": [
-    {
-      "organization": "Center for Renewable Energy and Island Sustainability",
-      "website": "http://manoa.hawaii.edu/reis",
-      "position": "Software Developer",
-      "startDate": "2016-01-01",
-      "endDate": "Present",
-      "summary": "Lead developer for weather sensing project",
-      "highlights": [
-        "Design firmware for distributed weather sensor network",
-        "Maintain custom data collection and storage infrastructure"
-      ]
-    },
-    {
-      "organization": "",
-      "website": "",
-      "position": "Professional organization involvement",
-      "startDate": "",
-      "endDate": "",
-      "summary": "",
-      "highlights": [
-        "Chair, ACM Manoa, 2016-Present",
-        "Member, IEEE Student Branch, 2014-Present",
-        "Webmaster/IT Officer, IEEE Student Branch, UH Manoa, 2012-2013"
-      ]
-    }
-  ],
   "awards": [
     {
-      "title": "B+ Scholarship",
-      "date": "2013-Present",
-      "awarder": "State of Hawaii",
-      "summary": "Scholarships awarded to incoming freshmen and continuing students who complete a rigorous high school curriculum with a minimum overall GPA of 3.0 at a Hawai'i public school."
-    },
-    {
-      "title": "First place",
-      "date": "2015",
-      "awarder": "University of Hawaii Micromouse Competition",
-      "summary": "My team won first place in 2015.  See my portfolio site for more details."
+      "title": "CTE Honors",
+      "date": "2020",
+      "awarder": "Pearl City High School",
+      "summary": "Worked on designing a budget-friendly tool to effectively collect microplastics from beaches."
     }
   ],
   "references": [
