@@ -12,4 +12,6 @@ labels:
 ---
 <img width="300px" class="rounded float-start pe-4" src="../img/smart1.jpg">
 
+## Questioning a question
+In a world full of curiosity, many of us instinctively turn to our mentors or professors when faced with challenges, often without giving a second thought. However, with the help of the internet and AI as resources, the methods of asking questions have undergone changes. For instance, a student may inquire about resolving a coding issue, but the manner in which they frame the question often becomes open-ended if they don't explain what they've done so far. In such cases, the professor is likely to respond by prompting the student to share their efforts they've taken so far in addressing the issue. This becomes the basis for the professor to guide the student in understanding their mistake more clearly. Conversely, when no prior work is presented, the professor may perceive the question as vague, leading to a less helpful response for the student. Now, a method exists for posing questions that benefit both the student and the professor which is asking smart questions.
 
