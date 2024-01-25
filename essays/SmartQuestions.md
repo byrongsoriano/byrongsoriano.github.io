@@ -18,6 +18,6 @@ In a world full of curiosity, many of us instinctively turn to our mentors or pr
 ## Asking a smart question
 As sophisticated as code can be, posing an intelligent question is appreciated by those being asked, as it demonstrates your dedication and comprehension of the issue. A number of examples are found on Stack Overflow, a website dedicated to helping programmers with code. Here is an example of an intelligent question that someone had about socket programming. It happened to be a question I wanted to ask when I was struggling to understand the functionality of a client-server program.
 
-<img width="300px" class="rounded float-start pe-4" src="../img/dup_2.png>
+<img width="300px" class="rounded float-start pe-4" src="../img/dup_2.png">
 
 
