@@ -20,4 +20,5 @@ As sophisticated as code can be, posing an intelligent question is appreciated b
 
 <img width="500px" class="rounded float-start pe-4" src="../img/dup_2.png">
 
+<img width="300px" class="rounded float-start pe-4" src="../img/dupcode.png">
 
