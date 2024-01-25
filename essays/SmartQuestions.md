@@ -22,3 +22,6 @@ As sophisticated as code can be, posing an intelligent question is appreciated b
 
 <img width="600px" class="rounded float-start pe-4" src="../img/dupcode.png">
 
+
+https://stackoverflow.com/questions/3642732/using-dup2-for-piping
+
