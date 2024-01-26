@@ -22,6 +22,6 @@ As sophisticated as code can be, posing an intelligent question is appreciated b
 
 <img width="600px" class="rounded float-start pe-4" src="../img/dupcode.png">
 
-
+In this example, a programmer wanted to know how to implement a dup2 system call in a client server program. To show exactly what they wanted to ask, they provided a screenshot of 
 https://stackoverflow.com/questions/3642732/using-dup2-for-piping
 
