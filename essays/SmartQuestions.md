@@ -20,10 +20,9 @@ As sophisticated as code can be, posing an intelligent question is appreciated b
 
 <img width="600px" class="rounded float-start pe-4" src="../img/dup_2.png">
 
-<div style="text-align: center;">
-  <img width="600px" class="rounded float-start pe-4" src="../img/dupcode.png" alt="Image Description">
-</div>
-
+<p align="center">
+<img class="img-fluid" src="../img/dupcode.png">
+</p>
 
 
 In this example, a programmer asked a question on implementing a dup2 system call within a client-server program. To clearly convey this, they included a screenshot of the dup2 system call along with the desired command. The responder comprehended the programmer's question and offered a helpful response. The provided example program showcased the details of the system call, along with the requirements for its proper usage.
