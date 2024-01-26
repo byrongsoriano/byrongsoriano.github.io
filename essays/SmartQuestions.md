@@ -31,5 +31,5 @@ To summarize, asking a smart question is an effective strategy for obtaining pre
 
 ###### ChatGPT attributed in correcting grammar, vocabulary and punctuation.
 
-https://stackoverflow.com/questions/3642732/using-dup2-for-piping
+You can find this example here [__https://stackoverflow.com/questions/3642732/using-dup2-for-piping__](https://stackoverflow.com/questions/3642732/using-dup2-for-piping)
 
