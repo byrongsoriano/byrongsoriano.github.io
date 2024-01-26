@@ -27,5 +27,9 @@ In this example, a programmer asked a question on implementing a dup2 system cal
 ## Conclusion
 To summarize, asking a smart question is an effective strategy for obtaining precise solutions, particularly in coding. Practicing this skill helps in resolving open-ended queries and increases the likelihood of obtaining direct solutions. Platforms like Stack Overflow encourage this process, as smart questions may have already been addressed. Notably, asking smart questions not only benefits the programmer seeking assistance but also serves as a valuable resource for others who might encounter similar issues in the future.
 
+<hr>
+
+###### ChatGPT attributed in correcting grammar, vocabulary and punctuation.
+
 https://stackoverflow.com/questions/3642732/using-dup2-for-piping
 
