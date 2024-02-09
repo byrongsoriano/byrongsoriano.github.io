@@ -24,5 +24,9 @@ Coding standards aim to help programmers set up their code in a manner that is e
 ## ESLint As a Partner
 In the initial stages of using IntelliJ for code development, ESLint's standards for checking my JavaScript programs initially felt somewhat intimidating, especially as I prefer spacing to neatly organize my functions. However, I was aware that a professional coding environment typically favors less spacing in code. What I found valuable about ESLint was its ability to locate and fix errors in my functions, such as identifying missing semicolons or brackets, which can be challenging to spot at times. Reflecting on this experience, I believe that ESLint has played an important role in helping me overcome certain coding habits, ultimately contributing to my growth as a more efficient programmer.
 
+<hr>
+
+###### ChatGPT attributed in correcting grammar, vocabulary and punctuation.
+
 
 
