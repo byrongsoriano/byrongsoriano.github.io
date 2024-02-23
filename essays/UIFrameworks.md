@@ -1,9 +1,9 @@
 ---
 layout: essay
 type: essay
-title: "Strap in for Success"
+title: "A Framework of Possibilities"
 # All dates must be YYYY-MM-DD format!
-date: 2023-10-05
+date: 2024-02-22
 published: true
 labels:
   - Programming
