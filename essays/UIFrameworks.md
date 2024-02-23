@@ -19,7 +19,7 @@ From this experience, I transitioned from working with raw html and css code to 
 
 
 ## A Modern Experience
-Before diving into frameworks, I often wondered how modern websites managed to incorporate icons like social media logos, tabs, and other functional symbols. While recreating the IslandSnow website, I gained insight into this process. Many of these sites feature a navigation bar designed using HTML and CSS files. Crafting the navigation bar proved to be an exciting yet challenging obstacle in website development.
+Before diving into frameworks, I often wondered how modern websites managed to incorporate icons like social media logos, tabs, and other functional symbols. While recreating the IslandSnow website, I gained insight into this process. Many of these sites feature a navigation bar designed using HTML and CSS files. Crafting the navigation bar proved to be an exciting yet challenging obstacle in website development. Below is the navbar code I developed using bootstrap.
 
 <p align="left">
 <img width="450px" class="img-fluid" src="../img/islandSnow.png">
