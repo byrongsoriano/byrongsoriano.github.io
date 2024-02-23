@@ -15,7 +15,9 @@ labels:
 </p>
 
 ## From Scratch to Frameworks
-In web development, a framework is a set of tools, libraries, conventions, and guidelines that assist in developing applications. Generally, these frameworks can simplify the development process and promote efficiency, consistency, and readability of the codebase. Basically, frameworks can significantly speed up development processes by establishing many common functionalities so developers don't have to spend time reinventing them, allowing them to focus on the specific functionality unique to their projects.
+In web development, a framework is a collection of tools, libraries, conventions, and guidelines aimed at assisting application development. Typically, these frameworks the development process and foster efficiency, consistency, and code. They can also speed up development processes by providing common functionalities so developers don't have to spend extra time reconstructing them, allowing them to tidy up the front-end of the websites. 
+
+
 
 ## A Modern Experience
 Before diving into frameworks, I often wondered how modern websites managed to incorporate icons like social media logos, tabs, and other functional symbols. While recreating the IslandSnow website, I gained insight into this process. Many of these sites feature a navigation bar designed using HTML and CSS files. Crafting the navigation bar proved to be an exciting yet challenging endeavor in website development.
