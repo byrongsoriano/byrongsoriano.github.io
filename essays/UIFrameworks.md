@@ -25,6 +25,10 @@ Before diving into frameworks, I often wondered how modern websites managed to i
 <img width="450px" class="img-fluid" src="../img/islandSnow.png">
 </p>
 
+<p align="right">
+<img width="450px" class="img-fluid" src="../img/navbar1.png">
+</p>
+
 ## Strapping Forward
 Through the process of recreating the IslandSnow website and transitioning from working with raw HTML and CSS to utilizing Bootstrap, I have not only gained valuable insight into modern web development practices but also experienced the efficiency that frameworks offer. Frameworks enhances consistency and code tidiness. With Bootstrap's pre-built components and functionalities, I was able to work faster and more effectively on website code, particularly in the creation of navigation bars and various icons and symbols. In summary, this experience highlights the significant role frameworks play in modern web development.
 
