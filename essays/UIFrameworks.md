@@ -25,3 +25,8 @@ Before diving into frameworks, I often wondered how modern websites managed to i
 <p align="center">
 <img width="350px" class="img-fluid" src="../img/islandSnow.png">
 </p>
+
+
+<hr>
+
+###### ChatGPT attributed in correcting grammar, vocabulary and punctuation.
