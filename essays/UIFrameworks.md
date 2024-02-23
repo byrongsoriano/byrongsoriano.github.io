@@ -21,5 +21,5 @@ In web development, a framework is a set of tools, libraries, conventions, and g
 Prior to learning frameworks, I have always wondered how modern-day websites were able to implement custom icons such as social media logos, tabs, and other useful icons. When I worked on recreating the IslandSnow website, I learned how these websites were able to acheive that. Most of these websites have a useful navbar for consumers to navigate through which uses html and css files to design. I thought working on the navigation bar was a challenging but fun experience for website development. 
 
 <p align="center">
-<img width="350px" class="img-fluid" src="../img/IslandSnow.png">
+<img width="350px" class="img-fluid" src="../img/islandSnow.png">
 </p>
