@@ -21,12 +21,12 @@ From this experience, I transitioned from working with raw html and css code to 
 ## A Modern Experience
 Before diving into frameworks, I often wondered how modern websites managed to incorporate icons like social media logos, tabs, and other functional symbols. While recreating the IslandSnow website, I gained insight into this process. Many of these sites feature a navigation bar designed using HTML and CSS files. Crafting the navigation bar proved to be an exciting yet challenging obstacle in website development.
 
+<p align="left">
+<img width="450px" class="img-fluid" src="../img/islandSnow.png">
+</p>
+
 ## Strapping Forward
 Through the process of recreating the IslandSnow website and transitioning from working with raw HTML and CSS to utilizing Bootstrap, I have not only gained valuable insight into modern web development practices but also experienced the efficiency that frameworks offer. Frameworks enhances consistency and code tidiness. With Bootstrap's pre-built components and functionalities, I was able to work faster and more effectively on website code, particularly in the creation of navigation bars and various icons and symbols. In summary, this experience highlights the significant role frameworks play in modern web development.
-
-<p align="center">
-<img width="350px" class="img-fluid" src="../img/islandSnow.png">
-</p>
 
 
 <hr>
