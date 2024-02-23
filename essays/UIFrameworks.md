@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: "A Framework of Possibilities"
+title: "Strapping up"
 # All dates must be YYYY-MM-DD format!
 date: 2024-02-22
 published: true
