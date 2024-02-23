@@ -23,9 +23,6 @@ Before diving into frameworks, I often wondered how modern websites managed to i
 
 <p align="left">
 <img width="450px" class="img-fluid" src="../img/islandSnow.png">
-</p>
-
-<p align="right">
 <img width="450px" class="img-fluid" src="../img/navbar1.png">
 </p>
 
