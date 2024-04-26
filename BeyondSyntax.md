@@ -31,7 +31,8 @@ Finally, behavioral design patterns are like rules that guide how teammates act 
 To sum up, design patterns are essential tools in software development, offering proven solutions to common challenges. By applying these patterns, developers can enhance code quality, maintainability, and scalability. Embracing design patterns fosters cleaner, more understandable code and promotes collaboration and innovation within development teams. Their importance in shaping the future of software development cannot be overstated.
 
 <hr>
-Note: 
+
+###### ChatGPT attributed in fixing grammar, vocabulary and punctuation.
 
 
 
