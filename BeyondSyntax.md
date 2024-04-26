@@ -12,5 +12,5 @@ labels:
   - Software Engineering
 ---
 <p align="center">
-<img width="350px" class="img-fluid" src="../img/bootstrap.png">
+<img width="350px" class="img-fluid" src="../img/patterns.jpg">
 </p>
