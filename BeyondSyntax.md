@@ -14,3 +14,9 @@ labels:
 <p align="center">
 <img width="350px" class="img-fluid" src="../img/patterns.jpg">
 </p>
+
+
+## Realized practices
+
+Designing is essential to how individuals express their work in art or science which leads to uniqueness in creativity. In coding, design can be crucial to the overall outcome of the code and its execution. Design patterns served as handy templates that show how to organize code in a clear and efficient way. They make it easier to build software that works well, is easy to change, and doesn't get too messy. This makes a big difference in computer programming.
+
