@@ -77,3 +77,6 @@ I consider AI to a significant role in the future of software engineering and fu
 
 ## Conclusion
 In brief, AI is very effective if it is used properly. If you know that the outputs that Chatgpt gives are only approximations, then that knowledge will help you validate your own solutions to a problem. I have seen how detrimental AI can be if not used effectively. While it's an excellent choice to trust AI in learning or solving problems, it should be known that other sources are availible to look from if you are unsure. 
+
+<hr>
+Note: ChatGPT attributed in fixing grammar, vocabulary and punctuation.
