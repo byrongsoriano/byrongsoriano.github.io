@@ -8,71 +8,72 @@ published: true
 labels:
   - Software Engineering
   - Artificial Intelligence
+  - Programming
 ---
 <p align="center">
  <img class="img-fluid" src="../img/ai_job.jpg" style="width: 50%;">
 </p>
 
 ## Introduction
-AI in education can be a touchy subject because it is often grouped with things like cheating and academic misconduct. However, I think that AI can be an extremely helpful tool in education as it can help students understand concepts in different ways. The field of software engineering is where there are a lot of small details and intricacies that are hard to memorize or even get taught. Using a language model such as ChatGPT or a pair programming AI like Co-Pilot can really help the user learn if used in that way. Personally, I have used ChatGPT and Co-Pilot quite a few times to answer any questions I may have or fix small bugs in where I don't notice where the error may be. Overall, it saves a lot of time in debugging and trying to figure out how things work.
+In a world where AI is used almost everyday, using it to one's advantage has its pros and cons. AI can be an extremely helpful tool in educational assistance as it can explain questions to students in many ways. It can also save time with making writing better and calculate math problems, however, this is known to be academic misconduct. In software engineering, AI assists programmers in the form of coding assistants such as Co-pilot or Chatgpt. Most of the time, AI is able to spot and fix errors in code that would normally take people a few minutes to catch. From personal experience, I have incorporated ChatGPT into my daily life whenever I wanted thorough explanations on questions I want to ask or fix small bugs. Overall, it saves time in debugging and even adds comments to explain new implemented code.
 
 ## Personal Experience with AI
-### 1. Experience WODS
-I have not used any AI tools to experience WODs mostly because I had the desire to learn about how to do certain things and figure it out myself. Additionally, the experience WODs usually come with a video tutorial that walks you through how to do it step by step which is more than enough to complete the experience. 
+### 1. Experience With WODS
+WODS have been an excellent way of testing our programming knowledge based on what we have learned in class. Completing a WOD successfully without the need of AI feels more accomplishing than asking for help. I haven't not used any AI tools to experience WODs due to my willingness to learn about class material and figure it out myself. In addition, the experience WODs came with a video tutorial that walks you through it which is supplemental to completing the experience. 
 
 ### 2. In-class Practice WODs
-I believe I have used AI for a couple of in-class practice WODs. This is because there were a couple of occasions where I was completely stuck and didn't realize the errors in my code. So it is sort of a last resort to see what is going wrong if I can't notice it myself. I also have not felt the need to use AI because these assignments are not graded and there is not necessarily any punishment for not completing them so I try to treat it as a learning process instead of trying to complete it as fast as possible. 
+I have used AI for some of in-class practice WODs. This is because there were several times where me and my partner were stuck and didn't realize the errors in our code. The AI tools were our last option to try fixing our erros if we couldn't find them ourselves. Since the In-class practice WODs were supposed to be similar to the real WODs, I still wanted to treat it no differently since the learning outcome was the same.
 
 ### 3. In-class WODs
-I have used mostly Co-pilot for things like auto-filling tedious code snippets. For example, during the Underscore modules, there were times I realized I had to use certain functions and Co-pilot would automatically complete it after I gave it a prompt of what I wanted. I mostly used this to speed up what I would be doing myself instead of just solving it without understanding.
+During the first half of the semester, I didn't need AI tools for the WODs as they focused on implementing algorithms and data structures, which I had already learned in previous classes. However, as the WODs shifted towards web development, I found myself in need of AI assistance, especially for tasks involving unfamiliar tools like linking pages and formatting them nicely.
 
 ### 4. Essays
-I have not used AI for my essays mostly because I never felt the need to. Although the essays may be tedious to do, they are in no sense difficult. So I think putting in a little time is good enough instead of having to resort to some AI-generated essay. 
+Using AI for essays has been a huge help ever since english 100. Before Chatgpt, I revised my essays with Grammarly, which had a built-in AI tool to revise my sentances. When Chatgpt was released, I switched to using it to revising my essays as it was more robust and helped me brainstorm ideas for my essays. The consequence I face when revising essays with AI is the lack of authenticity. As my professors say, "Make sure it is your voice" is a strong point explaining that your essays should still hold uniqueness even though it was revised. With that in mind, I ensure that any adjustments made in an essay are revised by me.  
 
 ### 5. Final Project
-For our final project, I have used ChatGPT quite a bit to answer various questions I have. Whether it be explaining how to do a certain thing, writing code, or fixing bugs. It has been extremely helpful and definitely saved me a lot of time.
+For our final project, ChatGPT helped mostly on developing front-end code since it was easier to learn. The downside that my group and I realized is that AI tools can't determine the features that need to be added for functionality. We had also realized doing the practice WODs are essential to creating website functionality.
 
 ### 6. Learning a Concept / Tutorial
-I use AI to learn a concept quite frequently. Whenever I don't understand a topic or concept, asking AI to explain it to me is my go-to option. This is because of how flexible it is and it being able to provide examples as well as step-by-step 
+I use AI to learn a concept often. Whenever I don't understand concept, asking AI to explain it to me in a simple way has been beneficial. Chatgpt is able to provide answers in great detail as well as examples. 
 
 ### 7. Answering a question in class or in Discord
 I have not answered any questions in class or in Discord. Usually, there is someone much more knowledgeable who answers the questions way before I even see them so I don't think there is a need for AI.
 
 ### 8. Asking or answering a smart-question
-I have never found the need to ask a smart-question. Most of the time I just search up what issue I may be having and I get helpful responses most of the time. 
+On several occasions, I've found myself needing to ask a smart question. Yet, it often happens that my classmates with the same question beat me to it. Observing their method of questioning has inspired me to ask smart questions in other classes.
 
 ### 9. Coding example
-I have used ChatGPT quite a lot for coding examples. Sometimes I would want an example to see how a certain function works and AI quite often times gives good step-by-step instructions and descriptions. 
+ChatGPT proves to be helpful when seeking coding examples. Specifically, I often ask for examples related to data structures or algorithms, and ChatGPT reliably provides detailed, step-by-step instructions and comprehensive explanations.
 
 ### 10. Explaining code
-I have also used AI quite a lot for this. For example, we may be given a hundred lines or so of code, and being able to paste it into ChatGPT to explain it in a few sentences is quite helpful. 
+I have also used AI often for this. For example, I was provided a client-server program with a hundred lines of code, and being able to paste it into ChatGPT to explain each crucial part of the code was helpful. 
 
 ### 11. Writing code
-I have only used AI to write code for things I have no idea how to do and have already tried to do myself. Usually, I tend to want to figure things out myself since I learn it better but there are times when I am at a complete loss. That is when I resort to ChatGPT or Co-pilot to generate something that I look over and understand before I use it.
+I have used AI to write code for programs that I have little knowledge about. Usually, I want to figure things out on my own since I learn it better, but there are times when I am confused and lost. This is where ChatGPT can assist me by generating something that I look over and understand before I use it.
 
 ### 12. Documenting code
-I have not thought about doing code documentation using AI. Usually, I just do this myself as it allows me to understand the code a lot more in order for me to write comments about it.
+I haven't thought about doing code documentation using AI. If I understand the lines of code that I am adding, I add comments myself which help other programmers understand the program.
 
 ### 13. Quality assurance
-I mostly use this for fixing bugs and errors that I have no idea where the error could be. For example, if I am writing some algorithm and I start at the wrong index, ChatGPT can spot it almost instantly which saves me the time and headache of trying to search for it. As for fixing things like ESLint errors, IntelliJ has built-in functionalities that automatically fix them for us. 
+With experience from ESLint, AI has also been helpful in fixing bugs and errors. There have been times where Chatgpt and ESLint have helped me create the best possible code there is according to coding standards. This has mostly fixed spacing errors and missing semicolons. 
 
 ### 14. Other uses in ICS 314 not listed
-Aside from the above-mentioned cases, I have not used AI in any other way. 
+Apart from ICS 314, I've also used AI for help in EE315 and EE323, both of which are electrical engineering courses. EE315 is about signals and systems, tackling math-intensive subjects. Occasionally, AI may encounter errors when computing signal outputs, with the need for manual verification on my part. Similarly, in EE323, a microelectronics course, I've encountered similar challenges. However, using AI in these classes offers the advantage of correctly setting up equations, facilitating easier verification and validation of results. 
 
 ## Impact on Learning and Understanding
-I personally avoid using AI to just get a solution. Most of the time when I use AI, it is to understand the problem and provide me with various options on how to solve the problem. I feel this way is quite beneficial to learning as it can be treated as a supplement to the things you learn in class. 
+When I use AI, I aim to understand the problem and provide me with options on how to solve the problem. I feel this way is quite beneficial to learning as it can be treated as a supplement to the topics that we learn. 
 
 ## Practical Applications
-One practical application I use AI for is in my VIP class. Here, we are tasked with creating some 'vending machine' that essentially dispenses collected live data depending on the user's requests. Most of the time, I ask it how I would go an approach implementing a certain feature or what things I need for it. 
+One practical application I use AI for is in my VIP project. Here, we are tasked with creating a 'dataset vending machine' that dispenses parsed .csv data depending on the user's requests. My partners and I got helped in creating an index.html file, css file, and csv parser file which was the main file needed for the site's functionality. 
 
 ## Challenges and Opportunities
-AI can be used in an extremely wide range of topics. As students, there is a strong temptation to just ask ChatGPT how to do something or even just spit out an answer. However, it is important to note that ChatGPT may often be incorrect when dealing with more specialized topics that have little information. IF the user is unaware of the false information, they are led to believe it is correct and that can cause a lot more harm down the line. This is why I believe it is a good supplement to what you have already learned in class and can be used as reinforcement.
+AI has been both beneficial and detrimental from the way I see it. Since the release of Chatgpt, I have noticed that there is a strong urge to ask ChatGPT for an answer instead of asking to learn about the problem itself. It has somewhat defeated the purpose of assignments in the sense that an answr can be fetched instantly. Despite this, AI still has many pros overall if used effectively as a learning reinforcement rather than an answer dispenser.
 
 ## Comparative Analysis
-Personally, I still think the traditional instructor and class teaching style is more effective. It provides some sort of engagement with others which I think helps a lot in learning. Additionally, the traditional teaching method allows for situations like reaching out to a teacher or classmate and providing some sort of interaction that can benefit learning. We compare this to using a language model like ChatGPT which it is not as engaging as it can only display text on a screen. 
+I think that our lives before Chatgpt were perfect the way it is. Having to search the internet for an answer to your question gave a greater learning outcome than asking Chatgpt because you spent more effort in searching for the answer and learning about it yourself rather than having it be said to you immediately. As for learning, traditional professors and class teaching styles are more effective in my opinion. It provides class engagement with others in learning. Additionally, the traditional teaching method allows for social interaction such as reaching out to a professor or classmate. Using a language model like ChatGPT tends to isolate people when they have questions.
 
 ## Future Considerations
-I think AI has a significant role in the future of software engineering and society in general. It is still quite early and thus has a lot of improvements to make. An example of this is being inaccurate at times as well as not being able to answer questions a real person would be able to answer. This can all be solved with time as the technology advances. 
+I consider AI to a significant role in the future of software engineering and future generations. One thing to consider is the lack of human interaction which I believe people still need. There will be solutions to improving AI to be more enjoyable based on the amount of feedback we give to it.
 
 ## Conclusion
-In conclusion, AI is very powerful too if used properly, and can be detrimental to learning if not. Personally, I have found the use of AI to be extremely beneficial in helping me learn and understand new concepts and I think being able to utilize it that way is very powerful. 
+In brief, AI is very effective if it is used properly. If you know that the outputs that Chatgpt gives are only approximations, then that knowledge will help you validate your own solutions to a problem. I have seen how detrimental AI can be if not used effectively. While it's an excellent choice to trust AI in learning or solving problems, it should be known that other sources are availible to look from if you are unsure. 
