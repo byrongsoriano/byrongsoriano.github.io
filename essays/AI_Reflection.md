@@ -10,7 +10,7 @@ labels:
   - Artificial Intelligence
 ---
 <p align="center">
- <img class="img-fluid" src="../img/ai_job.jpg" style="width: 100%;">
+ <img class="img-fluid" src="../img/ai_job.jpg" style="width: 50%;">
 </p>
 
 ## Introduction
