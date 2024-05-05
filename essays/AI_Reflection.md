@@ -1,9 +1,9 @@
 ---
 layout: essay
 type: essay
-title: "AI in Education"
+title: "Artificial Intelligence is Approximate Intelligence"
 # All dates must be YYYY-MM-DD format!
-date: 2023-11-21
+date: 2024-5-4
 published: true
 labels:
   - Software Engineering
