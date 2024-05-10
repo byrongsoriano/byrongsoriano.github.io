@@ -15,7 +15,7 @@ labels:
 summary: "An application that helps students connect with clubs on campus"
 ---
 <p align="center">
-<img class="img-fluid" src="../img/LandingPageMcc.png">
+<img class="img-fluid" src="../img/Screenshot 2024-05-09 215732.png">
 </p>
 
 # Manoa Club Connect
