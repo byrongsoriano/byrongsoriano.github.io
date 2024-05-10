@@ -13,7 +13,7 @@ labels:
   - Computer Engineering
 ---
 
-<center><img width="900px" class="center" src="..\img\engmeme.png"></center>
+<center><img width="500px" class="center" src="..\img\engmeme.png"></center>
 
 # Semester Recap
 This semester introduced me to software engineering which was different from my previous classes that focused on circuits, hardware, and systems. Prior to enrolling in ICS 314, I had only had experience in object-oriented programming in C/C++. However, completing this course has been very insightful, as it introduced me to various concepts and tools for web development. I have also gained an understanding of the uniqueness of software engineering as its own field aside from common engineering disciplines such as electrical, mechanical, or computer engineering. I always wondered why this wasn't a part of the engineering department's curriculum and found that it was more aligned with information technology sciences. 
