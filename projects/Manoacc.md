@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/clubconnectlogo.png
+image: img/clubconnectlogomilanes.png
 title: "Manoa Club Connect"
 date: 2024
 published: true
