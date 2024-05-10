@@ -30,4 +30,4 @@ In brief, I was overwhelmed but enthusiastic to learned the topics covered in IC
 
 <hr>
 
-Note: Chatgpt attributed in fixing punctuation and grammer.
+Note: Chatgpt attributed in fixing punctuation and grammar.
