@@ -27,3 +27,7 @@ At the start of the semester, I had numerous questions regarding the essence of 
 
 # Wrap Up
 In brief, I was overwhelmed but enthusiastic to learned the topics covered in ICS 314, with an addition of providing a solid foundation in practical skills. The exposure to a diverse array of concepts will be useful in my future coursework and professional development as a computer engineer.
+
+<hr>
+
+Note: Chatgpt attributed in fixing punctuation and grammer.
