@@ -25,11 +25,11 @@
   "skills": [
     {
       "name": "Languages and Frameworks",
-      "keywords": [ "C", "C++", "Kotlin", "Javascript", "SystemVerilog", "Verilog", "MIPS" ]
+      "keywords": [ "C", "C++", "CSS", "HTML", "PHP", "Javascript", "SystemVerilog", "Verilog", "MIPS" ]
     },
     {
       "name": "Toolsets/OS",
-      "keywords": [ "MacOS", "Ubuntu", "Git/GitHub", "Android", "Windows"]
+      "keywords": [ "MacOS", "Ubuntu", "Git/GitHub", "Android", "iOS", "Windows"]
     }
   ],
   "education": [
@@ -49,7 +49,9 @@
         "Linear algebra and Machine learning",
         "Digital systems and Computer design",
         "Electromagnetics",
-        "Physical Electronics "
+        "Physical Electronics",
+        "Microelectronics",
+        "Software Engineering"
       ]
     }
   ],
