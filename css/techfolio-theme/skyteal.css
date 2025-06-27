@@ -8,7 +8,7 @@
   --bs-font-sans-serif: "Open Sans", sans-serif;
 
   /* Set teal as the primary theme color */
-  --bs-blue: #20c997; /* Teal */
+  --bs-teal: #20c997; /* Teal */
   --bs-link-color: var(--bs-teal);
 
   /* Optional: adjust hover color for icons */
