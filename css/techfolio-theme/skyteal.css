@@ -6,19 +6,19 @@
 
 /* See https://getbootstrap.com/docs/5.2/customize/css-variables/#root-variables for variables to override. */
 :root {
-  --tf-teal1: #117a65;   /* Deep teal */
-  --tf-teal2: #1abc9c;   /* Classic teal */
-  --tf-teal3: #48c9b0;   /* Soft teal */
-  --tf-teal4: #d1f2eb;   /* Pale teal background */
+  --tf-teal1: #117a65;
+  --tf-teal2: #1abc9c;
+  --tf-teal3: #48c9b0;
+  --tf-teal4: #e6f9f5;  /* Lightest teal for background */
 
   --bs-font-sans-serif: "Open Sans", sans-serif;
   --bs-link-color: var(--tf-teal1);
-  --tf-pill-bg: var(--tf-teal1);
-  --tf-icon-fill: var(--tf-teal3);
+  --tf-pill-bg: var(--tf-teal3);
+  --tf-icon-fill: var(--tf-teal1);
   --tf-icon-hover: var(--tf-teal3);
-  --tf-page-bg-color: var(--bs-teal3);
-  --tf-footer-bg-color: var(--tf-teal3);
-  --tf-projects-bg-color: var(--tf-teal3);
+  --tf-page-bg-color: var(--bs-white);
+  --tf-footer-bg-color: var(--tf-teal4);
+  --tf-projects-bg-color: var(--tf-teal4);
 }
 
 h1, h2, h3, h4, h5 {
