@@ -37,7 +37,7 @@
   "education": [
     {
       "institution": "University of Hawaii, Honolulu, HI",
-      "area": "Computer Engineering (expected Spring, 2025)",
+      "area": "Computer Engineering (2020-2025)",
       "studyType": "B.S.",
       "startDate": "2020-09-01",
       "endDate": "Present",
@@ -53,10 +53,18 @@
         "Electromagnetics",
         "Physical Electronics",
         "Microelectronics",
-        "Software Engineering"
+        "Software Engineering" ]
+
+      "institution": "University of Hawaii, Honolulu, HI",
+      "area": "Electrical and Computer Engineering (2025-expected fall 2026)",
+      "studyType": "M.S.",
+      "startDate": "2025-01-20",
+      "endDate": "Present",
+      "courses": ["Computer Architecture I", "Robotics and Cyber-Physical Systems", "Advanced Network Algorithms"
       ]
     }
   ],
+  
   "work": [
     {
       "company": "UH Manoa College of Engineering",
