@@ -4,7 +4,7 @@ type: project
 image: img/micromouse/micromouse-square.jpg
 title: "Line Following Robot"
 date: 2024
-published: false
+published: true
 labels:
   - Robotics
   - Cyber-Physical Systems
