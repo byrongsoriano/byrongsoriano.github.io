@@ -9,7 +9,7 @@
 
   /* Set teal as the primary theme color */
   --bs-blue: #20c997; /* Teal */
-  --bs-link-color: var(--bs-blue);
+  --bs-link-color: var(--bs-teal);
 
   /* Optional: adjust hover color for icons */
   --tf-icon-fill: #20c997;
