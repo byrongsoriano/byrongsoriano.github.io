@@ -12,13 +12,13 @@
   --tf-teal4: #d1f2eb;   /* Pale teal background */
 
   --bs-font-sans-serif: "Open Sans", sans-serif;
-  --bs-link-color: var(--tf-teal2);
+  --bs-link-color: var(--tf-teal1);
   --tf-pill-bg: var(--tf-teal3);
   --tf-icon-fill: var(--tf-teal3);
   --tf-icon-hover: var(--tf-teal3);
   --tf-page-bg-color: var(--bs-teal4);
-  --tf-footer-bg-color: var(--tf-teal4);
-  --tf-projects-bg-color: var(--tf-teal4);
+  --tf-footer-bg-color: var(--tf-teal3);
+  --tf-projects-bg-color: var(--tf-teal3);
 }
 
 h1, h2, h3, h4, h5 {
