@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/linerobot.jpg
+image: img/linerobot1.jpg
 title: "Line Following Robot"
 date: 2024
 published: true
