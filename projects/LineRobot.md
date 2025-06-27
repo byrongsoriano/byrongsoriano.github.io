@@ -37,4 +37,4 @@ To implement turning behavior in the line-following robot, my teammates and I st
 <img width="400px" src="../img/linefollow1.png" class="img-thumbnail" >
 </div>
 
-You can learn more at the [UH Micromouse News Announcement](https://manoa.hawaii.edu/news/article.php?aId=2857).
+You can watch a demonstration video here [UH ECE491 Competition 2024](https://www.youtube.com/watch?v=Y7SRyWFyVyY).
