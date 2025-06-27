@@ -14,9 +14,9 @@
   --bs-font-sans-serif: "Open Sans", sans-serif;
   --bs-link-color: var(--tf-teal1);
   --tf-pill-bg: var(--tf-teal3);
-  --tf-icon-fill: var(--tf-teal1);
+  --tf-icon-fill: var(--tf-teal3);
   --tf-icon-hover: var(--tf-teal3);
-  --tf-page-bg-color: var(--bs-white);
+  --tf-page-bg-color: var(--bs-teal3);
   --tf-footer-bg-color: var(--tf-teal4);
   --tf-projects-bg-color: var(--tf-teal4);
 }
