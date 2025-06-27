@@ -7,11 +7,29 @@
     "phone": "Available upon request",
     "website": "https://byrongsoriano.github.io",
     "summary": "Aloha! I am studying for a M.S. in Electrical and Computer Engineering in the College of Engineering at the University of Hawaii at Manoa. I expect to graduate in Fall, 2026.",
-    "location": { "address": "", "postalCode": "96797", "city": "Waipahu", "countryCode": "USA", "region": "Hawaii" },
+    "location": {
+      "address": "",
+      "postalCode": "96797",
+      "city": "Waipahu",
+      "countryCode": "USA",
+      "region": "Hawaii"
+    },
     "profiles": [
-      { "network": "github", "username": "byrongsoriano", "url": "http://github.com/byrongsoriano" },
-      { "network": "linkedin", "username": "Byron Soriano", "url": "http://linkedin.com/in/byron-soriano-1b2013269" },
-      { "network": "instagram", "username": "vip_b_ron", "url": "http://instagram.com/vip_b_ron" }
+      {
+        "network": "github",
+        "username": "byrongsoriano",
+        "url": "http://github.com/byrongsoriano"
+      },
+      {
+        "network": "linkedin",
+        "username": "Byron Soriano",
+        "url": "http://linkedin.com/in/byron-soriano-1b2013269"
+      },
+      {
+        "network": "instagram",
+        "username": "vip_b_ron",
+        "url": "http://instagram.com/vip_b_ron"
+      }
     ]
   },
   "interests": [
@@ -27,11 +45,11 @@
   "skills": [
     {
       "name": "Languages and Frameworks",
-      "keywords": [ "C", "C++", "CSS", "HTML", "PHP", "Javascript", "SystemVerilog", "Verilog", "MIPS", "Python" ]
+      "keywords": ["C", "C++", "CSS", "HTML", "PHP", "Javascript", "SystemVerilog", "Verilog", "MIPS", "Python"]
     },
     {
       "name": "Toolsets/OS",
-      "keywords": [ "ArduinoIDE", "MuEditor", "MacOS", "Ubuntu", "Git/GitHub", "Android", "iOS", "Windows", ]
+      "keywords": ["ArduinoIDE", "MuEditor", "MacOS", "Ubuntu", "Git/GitHub", "Android", "iOS", "Windows"]
     }
   ],
   "education": [
@@ -41,9 +59,10 @@
       "studyType": "B.S.",
       "startDate": "2020-09-01",
       "endDate": "Present",
-      "courses": ["Calculus 1-4",
+      "courses": [
+        "Calculus 1-4",
         "Discrete Mathematics for Engineers",
-        "Introduction to Digital Design", 
+        "Introduction to Digital Design",
         "Circuit Analysis 1 and 2",
         "Physics 1-3",
         "Object-oriented programming",
@@ -53,25 +72,29 @@
         "Electromagnetics",
         "Physical Electronics",
         "Microelectronics",
-        "Software Engineering" ]
-
+        "Software Engineering"
+      ]
+    },
+    {
       "institution": "University of Hawaii, Honolulu, HI",
-      "area": "Electrical and Computer Engineering (2025-expected fall 2026)",
+      "area": "Electrical and Computer Engineering (2025–Expected Fall 2026)",
       "studyType": "M.S.",
       "startDate": "2025-01-20",
       "endDate": "Present",
-      "courses": ["Computer Architecture I", "Robotics and Cyber-Physical Systems", "Advanced Network Algorithms"
+      "courses": [
+        "Computer Architecture I",
+        "Robotics and Cyber-Physical Systems",
+        "Advanced Network Algorithms"
       ]
     }
   ],
-  
   "work": [
     {
       "company": "UH Manoa College of Engineering",
       "position": "EE Grader",
       "website": "",
-      "startDate": "9/23/2023",
-      "endDate": "12/18/2023",
+      "startDate": "2023-09-23",
+      "endDate": "2023-12-18",
       "summary": "Electrical Engineering Grader for Discrete Math for Engineers",
       "highlights": [
         "Grades assignments for courses relating to computer engineering",
