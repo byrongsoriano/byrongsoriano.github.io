@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/micromouse/micromouse-square.jpg
+image: img/linerobot.jpg
 title: "Line Following Robot"
 date: 2024
 published: true
