@@ -17,7 +17,8 @@ summary: Over the Fall 2024 semester, I learned about robotics and cyber-physica
 Over the course of several weeks, I worked with a team of selected classmates to build and program a line-following robot from scratch. The project emphasized hands-on skills such as chassis assembly, soldering, wiring, and subsystem integration. We incrementally developed and tested key components, including sensors and motor control systems, while also refining our code through multiple iterations. The final weeks were dedicated to tuning the robot's performance for speed and accuracy, culminating in a scored competition where the robot navigated a course autonomously. The experience provided valuable insights into robotics, embedded systems, and team-based engineering.
 
 <div class="text-center p-4">
-  <img width="400px" src="../img/linetask.png" class="img-thumbnail" >
+  <img width="500px" src="../img/linetask.png" class="img-thumbnail" >
+  <img width="500px" src="../img/linefollow1.png" class="img-thumbnail" >
 </div>
 
 
