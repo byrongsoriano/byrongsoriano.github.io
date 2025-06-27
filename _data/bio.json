@@ -16,8 +16,9 @@
   },
   "interests": [
     { "name": "Computer Architecture" },
+    { "name": "Artificial Intelligence" },
     { "name": "Mobile engineering" },
-    { "name": "Machine Learning" },
+    { "name": "Embedded Systems" },
     { "name": "Web Development" },
     { "name": "Circuit Design" },
     { "name": "IoT" }
@@ -25,11 +26,11 @@
   "skills": [
     {
       "name": "Languages and Frameworks",
-      "keywords": [ "C", "C++", "CSS", "HTML", "PHP", "Javascript", "SystemVerilog", "Verilog", "MIPS" ]
+      "keywords": [ "C", "C++", "CSS", "HTML", "PHP", "Javascript", "SystemVerilog", "Verilog", "MIPS", "Python" ]
     },
     {
       "name": "Toolsets/OS",
-      "keywords": [ "MacOS", "Ubuntu", "Git/GitHub", "Android", "iOS", "Windows"]
+      "keywords": [ "ArduinoIDE", "MuEditor", "MacOS", "Ubuntu", "Git/GitHub", "Android", "iOS", "Windows", ]
     }
   ],
   "education": [
