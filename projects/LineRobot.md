@@ -19,7 +19,7 @@ Over the course of several weeks, I worked with a team of selected classmates to
 <div class="text-center p-4">
   <img width="400px" src="../img/linetask.png" class="img-thumbnail" >
 </div>
----
+
 
 For this project, I was responsible for programming the core functionalities of the line following robot using CircuitPython. I began by implementing sensor polling routines to read data from the reflectance sensor array, which detects the position of the line beneath the robot. Using this data, I developed a PID (Proportional Integral Derivative) control algorithm to dynamically adjust the motor speeds and keep the robot accurately centered on the line. To manage the robot's behavior during different phases of operation such as starting, turning, or stopping, I implemented a state machine framework. This modular approach allowed for more robust control logic and smoother transitions between tasks. Through iterative tuning and testing, we achieved a fast and reliable line following performance in preparation for the final competition.
 
