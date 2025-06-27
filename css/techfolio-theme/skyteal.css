@@ -15,8 +15,8 @@
   --tf-icon-fill: #20c997;
   --tf-icon-hover: #198f7a;
 
-  --tf-pill-bg: var(--bs-gray);
-  --tf-page-bg-color: var(--bs-white);
+  --tf-pill-bg: var(--bs-teal);
+  --tf-page-bg-color: var(--bs-teal);
   --tf-footer-bg-color: var(--bs-teal-700);
   --tf-projects-bg-color: var(--bs-gray-100);
 }
