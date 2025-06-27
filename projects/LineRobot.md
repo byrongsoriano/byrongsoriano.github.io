@@ -18,7 +18,6 @@ Over the course of several weeks, I worked with a team of selected classmates to
 
 <div class="text-center p-4">
   <img width="500px" src="../img/linetask.png" class="img-thumbnail" >
-  <img width="500px" src="../img/linefollow1.png" class="img-thumbnail" >
 </div>
 
 
@@ -33,5 +32,9 @@ Below is a PID-control feedback system we were introduced to in the class that h
 </div>
 ---
 To implement turning behavior in the line-following robot, my teammates and I structured the control logic using a state machine, where each state handled a specific mode of behavior. In the `STATE_TURNS` block, I used condition checks to determine whether the robot was detecting black or white surfaces and to trigger transitions accordingly. I integrated the PID controller by instantiating it with tuned parameters (`kp_line`, `ki_line`, `kd_line`) and calling it to calculate the correction value based on the reflectance sensor error. This correction was then used to adjust the motor speeds and maintain accurate tracking during turns. The PID algorithm helped smooth the robot’s movement and reduced overshooting or oscillation, especially while transitioning between different track colors. By combining sensor thresholds, timing conditions, and directional control, the robot was able to respond intelligently to track deviations and execute precise turns.
+
+<div class="text-center p-4">
+<img width="500px" src="../img/linefollow1.png" class="img-thumbnail" >
+</div>
 
 You can learn more at the [UH Micromouse News Announcement](https://manoa.hawaii.edu/news/article.php?aId=2857).
