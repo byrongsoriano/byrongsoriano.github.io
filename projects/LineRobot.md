@@ -11,7 +11,7 @@ labels:
   - Arduino
   - Sensors
   - Python
-summary: "Over the Fall 2024 semester, I learned about robotics and cyber-physical systems through a series of labs which introduced components such as microcontrollers and sensors. At the end of the semester, my team and I constructed a line-following robot which integrated everything we learned in this class with important aspects such as mobility, perception, and intelligence.
+summary: Over the Fall 2024 semester, I learned about robotics and cyber-physical systems through a series of labs which introduced components such as microcontrollers and sensors. At the end of the semester, my team and I constructed a line-following robot which integrated everything we learned in this class with important aspects such as mobility, perception, and intelligence.
 ---
 
 <div class="text-center p-4">
