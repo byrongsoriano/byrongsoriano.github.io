@@ -14,7 +14,7 @@
       { "network": "instagram", "username": "vip_b_ron", "url": "http://instagram.com/vip_b_ron" }
     ]
   },
-  "My interests include": [
+  "interests": [
     { "name": "Computer Architecture" },
     { "name": "Artificial Intelligence" },
     { "name": "Mobile engineering" },
