@@ -6,10 +6,10 @@
 
 /* See https://getbootstrap.com/docs/5.2/customize/css-variables/#root-variables for variables to override. */
 :root {
-  --tf-teal1: #117a65;
-  --tf-teal2: #1abc9c;
-  --tf-teal3: #48c9b0;
-  --tf-teal4: #e6f9f5;  /* Lightest teal for background */
+  --tf-teal1: #117a65;   /* Deep teal */
+  --tf-teal2: #1abc9c;   /* Classic teal */
+  --tf-teal3: #48c9b0;   /* Soft teal */
+  --tf-teal4: #d1f2eb;   /* Pale teal background */
 
   --bs-font-sans-serif: "Open Sans", sans-serif;
   --bs-link-color: var(--tf-teal1);
