@@ -27,8 +27,8 @@ For this project, I was responsible for programming the core functionalities of 
 Here is some code that illustrates how we read values from the line sensors:
 
 <div class="text-center p-4">
-  <img width="400px" src="../img/pidequation.png" class="img-thumbnail" >
-  <img width="400px" src="../img/reflectancecode.png" class="img-thumbnail" >
+  <img width="500px" src="../img/pidequation.png" class="img-thumbnail" >
+  <img width="500px" src="../img/reflectancecode.png" class="img-thumbnail" >
 </div>
 
 You can learn more at the [UH Micromouse News Announcement](https://manoa.hawaii.edu/news/article.php?aId=2857).
