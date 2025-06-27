@@ -1,30 +1,35 @@
-/* Default theme. Simple, yet elegant. */
+/* Teal Theme: modifies the default theme to use teal in various places. */
 
-/* Use Open Sans as the default sans serif font. */
+/* Use Open Sans as the default font. */
 @import url("https://fonts.googleapis.com/css?family=Open+Sans:300,400,500,700|Source+Code+Pro:300,400,500,700");
+@import url("https://fonts.googleapis.com/css?family=Rubik:300,400,500,700");
 
 /* See https://getbootstrap.com/docs/5.2/customize/css-variables/#root-variables for variables to override. */
 :root {
+  --tf-teal1: #117a65;   /* Deep teal */
+  --tf-teal2: #1abc9c;   /* Classic teal */
+  --tf-teal3: #48c9b0;   /* Soft teal */
+  --tf-teal4: #d1f2eb;   /* Pale teal background */
+
   --bs-font-sans-serif: "Open Sans", sans-serif;
-
-  /* Set teal as the primary theme color */
-  --bs-teal: #20c997; /* Teal */
-  --bs-link-color: var(--bs-teal);
-
-  /* Optional: adjust hover color for icons */
-  --tf-icon-fill: #20c997;
-  --tf-icon-hover: #198f7a;
-
-  --tf-pill-bg: var(--bs-white);
+  --bs-link-color: var(--tf-teal1);
+  --tf-pill-bg: var(--tf-teal3);
+  --tf-icon-fill: var(--tf-teal1);
+  --tf-icon-hover: var(--tf-teal3);
   --tf-page-bg-color: var(--bs-white);
-  --tf-footer-bg-color: var(--bs-teal-700);
-  --tf-projects-bg-color: var(--bs-gray-100);
+  --tf-footer-bg-color: var(--tf-teal4);
+  --tf-projects-bg-color: var(--tf-teal4);
+}
+
+h1, h2, h3, h4, h5 {
+  color: var(--tf-teal1);
+  font-family: Rubik;
 }
 
 /* Format social media icons */
 .tf-social {
   display: inline-block;
-  fill: var(--tf-icon-fill);
+  fill: var(--tf-teal1);
   height: 1.5em;
   vertical-align: -.1em;
   width: 1.5em;
@@ -39,8 +44,8 @@ a {
   text-decoration: none;
 }
 
-/* Simplify the styling of the bottom of Essay cards. */
-.card-footer {
-  background-color: var(--bs-white);
-  border-top: none;
+.rounded-circle {
+  border-color: var(--tf-teal1);
+  border-style: solid;
+  border-width: 1px;
 }
